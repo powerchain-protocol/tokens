@@ -2,7 +2,7 @@
   "name": "PowerChain",
   "symbol": "PWRC",
   "description": "PowerChain (PWRC) is the native utility and governance token of the PowerChain Protocol, an enterprise platform for renewable energy infrastructure, tokenized real-world assets (RWAs), carbon markets, AI-powered energy management, and decentralized settlement built on Solana Token-2022.",
-  "image": "https://raw.githubusercontent.com/powerchain-protocol/pwrc-token/main/public/assets/pwrc.svg",
+  "image": "https://raw.githubusercontent.com/powerchain-protocol/pwrc-token/main/public/assets/pwrc.png",
   "external_url": "https://powerchain.app",
 
   "seller_fee_basis_points": 0,
@@ -79,8 +79,8 @@
     "repository": "https://github.com/powerchain-protocol/pwrc-token",
     "github": "https://github.com/powerchain-protocol",
 
-    "x": "https://x.com/powerchain",
-    "telegram": "https://t.me/powerchain_app",
+    "x": "https://x.com/powerchain_ai",
+    "telegram": "https://t.me/+B27M3rosFREwNzdk",
 
     "explorer": "https://explorer.solana.com/address/PWRCRXXZxbg6FdQZfK3PMD7KP8xfxs9acvifJiG46wc",
 
