@@ -376,4 +376,3 @@ Built on **Solana** • Powered by **Proof of Generation**
 # Disclaimer
 
 PWRC is designed as a utility and governance token within the PowerChain ecosystem. Participation in the ecosystem may involve technical, operational, regulatory, and market risks. This document is provided for informational purposes only and does not constitute financial, legal, investment, or tax advice. Token allocations, governance parameters, roadmap items, and technical features are subject to change through approved governance processes or as required to support the long-term development of the protocol.
-````
